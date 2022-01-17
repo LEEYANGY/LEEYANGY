@@ -1,6 +1,9 @@
 
+
 ### Hi there I'm Lee Yang 👋
-----
+---
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYANGY&layout=compact)](https://github.com/LEEYANGY/github-readme-stats">
+
 - 🍻 University Major Internet of Things Engineering
 - ⚡ C / C++ / Java / Android
 - 🖋 Writer at [Nemo Community](https://www.link-nemo.com/u/10156)
@@ -8,26 +11,16 @@
 - 🏃 Badminton / Cycling
 - 🥤 Genshin Impact 原神
 - 📫 Email me at: liyangyang0713@foxmail.com
-----
+
 ![synthwave's GitHub stats aligen="right"](https://github-readme-stats.vercel.app/api?username=LEEYANGY&show_icons=true&theme=synthwave)
 ----
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p align="center">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">    
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px"> 
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px"> 
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains IntelliJ" style="vertical-align:top; margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"  style="vertical-align:top; margin:4px">    
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
-</p>
+#### Platform&Tools
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
+[![](https://img.shields.io/badge/-IDEA-fcc624?style=flat-square&logo=idea&logoColor=white)](https://www.jetbrains.com/zh-cn/idea/)
+[![](https://img.shields.io/badge/-CLion-fcc624?style=flat-square&logo=idea&logoColor=grean)](https://www.jetbrains.com/zh-cn/clion/)
+[![](https://img.shields.io/badge/-Java-f7e018?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/technologies/downloads/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](http://www.docker.com/)
+[![](https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=white)](https://start.spring.io/)
+[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
