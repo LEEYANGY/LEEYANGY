@@ -2,7 +2,7 @@
 
 ### Hi there I'm Lee Yang 👋
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYANGY&layout=compact)](https://github.com/LEEYANGY/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyangyangy&layout=compact)](https://github.com/LEEYANGY/github-readme-stats">
 
 - 🍻 University Major Internet of Things Engineering
 - ⚡ C / C++ / Java / Android
