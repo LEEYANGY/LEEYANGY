@@ -2,7 +2,7 @@
 
 ### Hi there I'm Lee Yang 👋
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyangyangy&layout=compact)](https://github.com/LEEYANGY/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyangyangy&layout=compact)](https://github.com/leeyangyangy/github-readme-stats">
 
 - 🍻 University Major Internet of Things Engineering
 - ⚡ C / C++ / Java / Android
@@ -12,7 +12,7 @@
 - 🥤 Genshin Impact 原神
 - 📫 Email me at: liyangyang0713@foxmail.com
 
-![synthwave's GitHub stats aligen="right"](https://github-readme-stats.vercel.app/api?username=LEEYANGY&show_icons=true&theme=synthwave)
+![synthwave's GitHub stats aligen="right"](https://github-readme-stats.vercel.app/api?username=leeyangyangy&show_icons=true&theme=synthwave)
 ----
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
